@@ -1,0 +1,24 @@
+{
+  "offer_categories": [
+    {
+      "key": "free_gift",
+      "label": "免費贈送類",
+      "examples": ["送甜點", "送蝦", "送禮物", "免費升級"]
+    },
+    {
+      "key": "discount",
+      "label": "折扣類",
+      "examples": ["第二份半價", "滿千享85折", "壽星六折"]
+    },
+    {
+      "key": "service",
+      "label": "服務類優惠",
+      "examples": ["免服務費", "專屬生日服務"]
+    },
+    {
+      "key": "event",
+      "label": "活動類",
+      "examples": ["生日shot", "活動裝飾", "互動活動"]
+    }
+  ]
+}
